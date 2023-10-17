@@ -24,3 +24,14 @@
 - Heranca
 - Getters and Setters
 - Operador exponencial
+
+## Capitulo 3
+
+- Arrays visao geral
+- Metodos de array como (from, entries, of)
+- Ordenacao de Arrays
+- Funcoes de array como (map, filter, reduce)
+- Arrays bidimensionais e multidimensionais 
+- Typescript com arrays
+- Convertendo arrays em string com (toString(), join("-"))
+- Pesquisa em arrays com (find, findIndex)
